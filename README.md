@@ -1,4 +1,4 @@
-# CS50x
+# CS50x ( Harvard University 2024 )
 # CS
  Week 0: https://cs50.harvard.edu/x/2024/weeks/0/
  Week 1: https://cs50.harvard.edu/x/2024/weeks/1/ 
